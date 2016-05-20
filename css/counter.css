@@ -1,0 +1,17 @@
+button {
+  display: inline-block;
+  flex:auto;
+}
+
+p {
+  background-color: blue;
+}
+
+label {
+  border: black solid;
+  padding: 3px;
+  
+}
+#container2 {
+  background-color: orange;
+}
